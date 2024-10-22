@@ -22,4 +22,4 @@ SwiftNote is a simple CRUD journal application built with Java Spring Boot and M
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/Nitish118/SwiftNote.git)
+   git clone https://github.com/Nitish118/SwiftNote.git
